@@ -1,6 +1,12 @@
 #### Experiment number - 01
 ###### Experiment Name - Write and execute a machine language in MTS86 trainer board solve the mathematical expression X=A+B where A=01 and B=F0
 
+###### Objectives:- The 8086 kit MTS-86C is used to perform machine language programns on it to solve any operations. This kit has I/O facility and build in with different interfacing devices such as 8255,8251,8259,8253,3254 etc.
+
+###### Specifications:- 
+
+
+
 | Assembly Language | Machine Language |
 | :-:        |     :-:      |
 |MOV AL,  01 <br> ADD AL,  F0|B0  01 <br> 04 F0|
