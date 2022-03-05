@@ -17,7 +17,13 @@
 | :-:        |     :-:      |
 |MOV AL,  01 <br> ADD AL,  F0|B0  01 <br> 04 F0|
 
-
+###### Input:-
+                A=01
+                B=F0
+###### Output:-
+                A=01---->0000 0001
+                ######B=F0---->1111 0000
+                
 
 #### Experiment number - 02
 ###### Experiment Name - Write and execute a machine language in MTS86 trainer board solve the mathematical expression X=A-B where A=07 and B=02
