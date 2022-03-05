@@ -4,7 +4,10 @@
 ###### Objectives:- The 8086 kit MTS-86C is used to perform machine language programns on it to solve any operations. This kit has I/O facility and build in with different interfacing devices such as 8255,8251,8259,8253,3254 etc.
 
 ###### Specifications:- 
-                              a
+                         CPU : 8086
+                         Display Unit : LCD(16*2 Line)
+                         Main RAM : 64 KB
+                         Monitors ROM : 64 KB
 
 
 | Assembly Language | Machine Language |
