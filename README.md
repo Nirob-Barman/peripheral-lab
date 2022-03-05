@@ -13,9 +13,9 @@
 ###### I/O: ADC 8089, DAC 0808, 8255, Interrupt controller 8259, Trainer/Counter Controller-8253, Keyboard/Display controller-8279, serial port-8251,24,keyboard
 
 ###### Procedure:-
-| Assembly Language | Machine Language |
-| :-:        |     :-:      |
-|MOV AL,  01 <br> ADD AL,  F0|B0  01 <br> 04 F0|
+                    | Assembly Language | Machine Language |
+                    | :-:        |     :-:      |
+                    |MOV AL,  01 <br> ADD AL,  F0|B0  01 <br> 04 F0|
 
 
 
